@@ -1,0 +1,41 @@
+.square {
+	float: left;
+	border: 1px solid black;
+	background: white;
+}
+div {
+	margin: 0;
+	padding: 0;
+}
+.wrap {
+	margin: 0 auto;
+	width: 600px;
+}
+body {
+	background: black;
+}
+.navbar {
+	text-align: center;
+}
+header {
+	text-align: center;
+	color: white;
+}
+
+header h1{
+	font-family: 'Clicker Script', cursive;
+	font-size: 40px;
+	margin: 0;
+}
+button {
+	background-color: #FF0066;
+	border: #FF0066;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 15px;
+	margin: 10px;
+}
+h3 {
+	color: white;
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+}
